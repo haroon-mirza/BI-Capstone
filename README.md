@@ -5,7 +5,7 @@ This project serves as the capstone for the MIS 490 course. It focuses on using 
 Technologies Used
 <ul>
 <li>Power BI<li>
-<li>Microsoft Excel</li>
+  <li>Microsoft Excel</li>
 </ul>
 Datasets
 
