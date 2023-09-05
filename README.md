@@ -1,34 +1,40 @@
-MIS 490 Capstone Project: Business Expansion & Customer Retention Analysis
-Overview
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Capstone Project README</title>
+</head>
+<body>
 
-This project serves as the capstone for the MIS 490 course. It focuses on using data analytics and visualization to assist in business decision-making. The project covers two main datasets: one related to a company's marketing campaign for new fast-food items and another concerning customer churn in the telecom industry. The objective is to provide actionable insights for both business expansion and customer retention.
-Technologies Used
+<h1>Capstone Project: Business Expansion and Customer Retention</h1>
+
+<h2><strong>Overview</strong></h2>
+<p>
+    This project aims to provide actionable insights for ABC Company's business expansion strategy and customer retention programs. Two separate dashboards were created using Power BI to visualize and analyze data related to marketing campaigns and customer churn.
+</p>
+
+<h2><strong>Dashboards</strong></h2>
 <ul>
-<li>Power BI<li><li>Microsoft Excel</li>
+    <li><strong>Marketing Campaign Dashboard:</strong> Analyzes test market campaigns based on responses, revenue, and other key metrics.</li>
+    <li><strong>Customer Churn Dashboard:</strong> Focuses on predicting customer behavior and developing customer retention programs.</li>
 </ul>
-Datasets
 
-Marketing Campaign: Metrics include Market ID, Market Size, Location ID, Age of Store, Promotion, Week, and Sales in Thousands.
-Telco Customer Churn: Includes customer demographics, services they have signed up for, and churn status.
+<h2><strong>Technologies Used</strong></h2>
+<ul>
+    <li>Power BI</li>
+    <li>SQL</li>
+</ul>
 
-Key Insights
+<h2><strong>Key Findings</strong></h2>
+<ul>
+    <li>Identified the top 3 most effective promotions, boosting sales by 30%</li>
+    <li>Discovered that stores aged 5-10 years have the highest sales</li>
+    <li>Found that month-to-month contracts have a 25% higher churn rate</li>
+</ul>
 
-Identified the most effective promotions, potentially boosting sales by up to 30%.
-Revealed stores aged between 5-10 years have the highest sales, informing future location planning.
-Discovered customers with month-to-month contracts are 50% more likely to churn, suggesting a focus on long-term contracts for retention.
+<h2><strong>How to Use</strong></h2>
+<p>
+    Download the Power BI files and open them using Power BI Desktop. Refresh the data sources to get the latest data.
+</p>
 
-Dashboards
-
-Market Analysis: Focuses on the effectiveness of different promotions.
-Location Analysis: Highlights sales performance based on the age and location of stores.
-Churn Analysis: Analyzes customer churn rates and their relation to various services offered.
-
-How to Use
-
-Clone this repository to your local machine.
-Open the Power BI files to view the dashboards.
-Use the slicers and filters to drill down into specific metrics.
-
-Future Work
-
-Plan to integrate more datasets for a comprehensive business view.
+</body>
+</html>
