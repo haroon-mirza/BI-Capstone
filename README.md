@@ -4,7 +4,7 @@ Overview
 This project serves as the capstone for the MIS 490 course. It focuses on using data analytics and visualization to assist in business decision-making. The project covers two main datasets: one related to a company's marketing campaign for new fast-food items and another concerning customer churn in the telecom industry. The objective is to provide actionable insights for both business expansion and customer retention.
 Technologies Used
 <ul>
-<li>>Power BI<li>
+<li>Power BI<li>
 <li>Microsoft Excel</li>
 </ul>
 Datasets
