@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Capstone Project README</title>
-</head>
 <body>
 
 <h1>Capstone Project: Business Expansion and Customer Retention</h1>
