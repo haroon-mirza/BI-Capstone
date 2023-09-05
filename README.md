@@ -30,7 +30,7 @@
 
 <h2><strong>How to Use</strong></h2>
 <p>
-    Download the Power BI files and open them using Power BI Desktop. Refresh the data sources to get the latest data.
+    Download the Power BI files and open them using Power BI Desktop.
 </p>
 
 </body>
