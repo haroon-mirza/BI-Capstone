@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Capstone Project: Business Expansion and Customer Retention</h1>
+<h1>Market Growth & Retention Intelligence Dashboard</h1>
 
 <h2><strong>Overview</strong></h2>
 <p>
